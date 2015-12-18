@@ -1,0 +1,29 @@
+ENEMYS = [
+{
+	type:1,
+	speed:10,
+	health:3,
+	width:30,
+	height:30,
+	color:'#fff',
+	score:50
+},
+{
+	type:2,
+	speed:7,
+	health:7,
+	width:60,
+	height:60,
+	color:"#FF2121",
+	score:150
+},
+{
+	type:3,
+	speed:15,
+	health:3,
+	width:25,
+	height:25,
+	color:"#00AB07",
+	score:100
+}
+];
